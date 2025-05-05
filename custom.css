@@ -1,0 +1,29 @@
+.custom-bg{
+    background-color: #F4D04E;
+  }
+  .main-card{
+    box-shadow: 8px 8px 0px 0px #000;
+  }
+  .blog-post-avatar-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .blog-post-avatar-container h4 {
+    margin-left: 1rem;
+    font-size: 14px;
+    font-weight: 800;
+  }
+    
+    @media screen and (max-width: 500px) {
+    
+      #main-card {
+        width: 90%;
+        margin: 2rem auto
+      }
+    
+      .preview-card-img img {
+        width: 100%;
+      }
+    
+    }
