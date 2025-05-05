@@ -79,7 +79,7 @@ a {
 
 .blog-post-avatar-container {
   display: flex;
-  align-items: center;
+  align-items: in-line;
 }
 
 .blog-post-avatar-container h4 {
